@@ -1,0 +1,48 @@
+header {
+  display: flex;
+  width: 100%;
+}
+
+.title {
+  margin-right: auto;
+  color: rgb(26, 69, 148);
+}
+
+.menu-item {
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+  color: rgb(26, 69, 148);
+}
+
+.float__ttl {
+  margin-bottom: 0px;
+  font-size: 60px;
+  margin: 0px 0px 0px 50px;
+}
+
+.float__img {
+  width: 700px;
+  float: left;
+  margin: auto;
+}
+
+img {
+  position: relative;
+  top: 200px;
+  left: 550px;
+  background-position: right;
+  background-size: cover;
+}
+.item {
+  width: 900px;
+  height: 150px;
+  background: #130591;
+  text-align: left;
+  margin: 0px 0px 0px 50px;
+  background-size: cover;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
