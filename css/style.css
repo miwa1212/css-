@@ -1,3 +1,7 @@
+* {
+  padding: 0;
+  margin: 0;
+}
 header {
   width: 100%;
   margin: 10px;
@@ -11,22 +15,22 @@ header {
   padding: 10px;
   color: rgb(26, 69, 148);
   font-family: 'Sawarabi Gothic', sans-serif;
-  
 }
 .img img {width: 50%;
-position: absolute;}
+position: absolute;
+right: 0;
+top:100px;}
 
-.bg{width: auto;
-  margin: auto ;
-  }
 
 .img{position: relative;
-  top: 150px;
-  }
-.messege{font-size: 50px;
+}
+  .messege{font-size: 60px;
 font-family: 'Sawarabi Gothic', sans-serif;}
+
 .box{width: 900px;
-  height: 200px;
+  height: 150px;
   background: rgb(17, 62, 146);
 }
-
+.box1{
+  margin: 30% 0 0 0 ;
+}
