@@ -7,15 +7,14 @@ header {
   color: rgb(26, 69, 148);
 }
 .menu-item {
-  list-style: none;
   display: inline-block;
   padding: 10px;
   color: rgb(26, 69, 148);
   font-family: 'Sawarabi Gothic', sans-serif;
   
 }
-.img img {width: 60%;
-position: sticky;}
+.img img {width: 50%;
+position: absolute;}
 
 .bg{width: auto;
   margin: auto ;
@@ -23,8 +22,8 @@ position: sticky;}
 
 .img{position: relative;
   top: 150px;
-  left: 690px;}
-.messege{font-size: 80px;
+  }
+.messege{font-size: 50px;
 font-family: 'Sawarabi Gothic', sans-serif;}
 .box{width: 900px;
   height: 200px;
